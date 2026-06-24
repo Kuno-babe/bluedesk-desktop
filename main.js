@@ -12,7 +12,7 @@ function createWindow() {
     backgroundColor: '#0a1628',
     show: false,
     frame: true,
-    icon: path.join(__dirname, 'assets', 'icons', 'icon.png'),
+    icon: path.join(__dirname, 'assets', 'icons', 'icon.ico'),
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
